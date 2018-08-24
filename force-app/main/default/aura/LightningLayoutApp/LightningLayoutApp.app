@@ -1,13 +1,32 @@
 <aura:application extends="force:slds">
-    <Lightning:layout horizontalAlign="space">
-        <Lightning:layoutItem padding="around-small">
+    <Lightning:layout verticalAlign="start" multipleRows="true">
+        <Lightning:layoutItem flexibility="auto" size="12" padding="around-small" smallDeviceSize="6" mediumDeviceSize="4" largeDeviceSize="3">
             <Lightning:card title="1">
                 <p class="slds-p-horizontal_small">
-                    Card 1 muda fucka change!!!
+                    Card 1
+                </p>
+            </Lightning:card>
+        </Lightning:layoutItem>
+        <Lightning:layoutItem flexibility="auto" size="12" padding="around-small" smallDeviceSize="6" mediumDeviceSize="4" largeDeviceSize="3">
+            <Lightning:card title="2">
+                <p class="slds-p-horizontal_small">
+                    Card 2
+                </p>
+            </Lightning:card>
+        </Lightning:layoutItem>
+        <Lightning:layoutItem flexibility="auto" size="12" padding="around-small" smallDeviceSize="6" mediumDeviceSize="4" largeDeviceSize="3">
+            <Lightning:card title="3">
+                <p class="slds-p-horizontal_small">
+                    Card 3
+                </p>
+            </Lightning:card>
+        </Lightning:layoutItem>
+        <Lightning:layoutItem flexibility="auto" size="12" padding="around-small" smallDeviceSize="6" mediumDeviceSize="4" largeDeviceSize="3">
+            <Lightning:card title="1">
+                <p class="slds-p-horizontal_small">
+                    Card 4
                 </p>
             </Lightning:card>
         </Lightning:layoutItem>
     </Lightning:layout>
-
-
 </aura:application>
