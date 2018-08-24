@@ -5,3 +5,7 @@
 .settings
 node_modules
 .idea
+/IlluminatedCloud/*
+IlluminatedCloudDX.iml
+.vscode
+.idea/*
