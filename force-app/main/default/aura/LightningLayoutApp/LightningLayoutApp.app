@@ -3,10 +3,11 @@
         <Lightning:layoutItem padding="around-small">
             <Lightning:card title="1">
                 <p class="slds-p-horizontal_small">
-                    Card 1
+                    Card 1 muda fucka change!!!
                 </p>
             </Lightning:card>
         </Lightning:layoutItem>
     </Lightning:layout>
 
-</aura:application>	
+
+</aura:application>

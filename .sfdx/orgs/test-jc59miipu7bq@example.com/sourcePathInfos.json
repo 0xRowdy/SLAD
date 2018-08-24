@@ -2,14 +2,14 @@
     [
         "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1535139909000,
             "changeTime": 1535139909000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1535139909000,
             "changeTime": 1535139909000,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,46 +32,316 @@
     [
         "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default",
         {
-            "state": "n",
             "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default",
             "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1535141106000,
+            "changeTime": 1535141106000,
+            "contentHash": "0217953e1bf184e2fb53a40e8078787ef7bc7bfc",
             "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1535139909000,
-            "changeTime": 1535139909000,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1535141106000,
+            "changeTime": 1535141106000,
+            "contentHash": "20b51448c63d483e17ad14348c09b0247ef8d038",
             "isMetadataFile": false,
-            "size": 68,
-            "modifiedTime": 1535139909000,
-            "changeTime": 1535139909000,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/mroddy/Desktop/DX/IlluminatedCloudDX",
         {
-            "state": "n",
             "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX",
             "isDirectory": true,
+            "size": 476,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "36f908a383f3ffc31da97beb458b9f2ebc7dbadb",
             "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld",
+            "isDirectory": true,
             "size": 374,
-            "modifiedTime": 1535139986000,
-            "changeTime": 1535139986000,
-            "contentHash": "f10b1d009e7668160f13c00fc87f08e9a6342318",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "f7d1a6214b407b0601d37ea3df189dd4265b5c4c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.auradoc",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.cmp",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.cmp",
+            "isDirectory": false,
+            "size": 68,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "e53311dde94da12920988c64180fa087bef7691e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.css",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.css",
+            "isDirectory": false,
+            "size": 9,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.design",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.svg",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorld.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorldController.js",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorldController.js",
+            "isDirectory": false,
+            "size": 64,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorldHelper.js",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorldHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorldRenderer.js",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/HelloWorld/HelloWorldRenderer.js",
+            "isDirectory": false,
+            "size": 49,
+            "modifiedTime": 1535140409000,
+            "changeTime": 1535140409000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1535141288000,
+            "changeTime": 1535141288000,
+            "contentHash": "da4a60765cb549834103b81e3e6d882674931c20",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/TestClassScratch1.cls",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/TestClassScratch1.cls",
+            "isDirectory": false,
+            "size": 88,
+            "modifiedTime": 1535141106000,
+            "changeTime": 1535141106000,
+            "contentHash": "378d9cbe4c6c711a50c0f71c820b357c38a5dfd4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/TestClassScratch1.cls-meta.xml",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/TestClassScratch1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1535141106000,
+            "changeTime": 1535141106000,
+            "contentHash": "d1707cd3846f6ecd6f9e8b01274f0f47ecd9a6ef",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 407,
+            "modifiedTime": 1535141393000,
+            "changeTime": 1535141393000,
+            "contentHash": "b555eca8f08015293a99bfa60418a94d153dabc5"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1535141393000,
+            "changeTime": 1535141393000,
+            "contentHash": "b732c7cc1dfc5c46f439cb610f149119005435f5"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.auradoc",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1535141106000,
+            "changeTime": 1535141106000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1535141393000,
+            "changeTime": 1535141393000,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.svg",
+        {
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutApp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1535141106000,
+            "changeTime": 1535141106000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutAppController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1535141393000,
+            "changeTime": 1535141393000,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutAppHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1535141393000,
+            "changeTime": 1535141393000,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutAppRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mroddy/Desktop/DX/IlluminatedCloudDX/force-app/main/default/aura/LightningLayoutApp/LightningLayoutAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1535141393000,
+            "changeTime": 1535141393000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
         }
     ]
 ]
